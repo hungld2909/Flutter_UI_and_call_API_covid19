@@ -1,16 +1,10 @@
 # project_covid_19
 
-A new Flutter project.
+sử dụng API để đọc dữ liệu về App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/55448192/85243247-90ad5380-b46b-11ea-870c-9a5cddc213df.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/55448192/85243273-aa4e9b00-b46b-11ea-8007-50f32d2294f9.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/55448192/85243300-bdfa0180-b46b-11ea-8e58-ad9a77f17d1f.png)
